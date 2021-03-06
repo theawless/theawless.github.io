@@ -1,8 +1,21 @@
 ---
+layout: single
+title: "About Me"
+share: false
+author_profile: true
+comments: false
+header:
+  image: /assets/images/splashes/abstract.jpg
+
+excerpt: "A few words about me"
+sitemap: false
 permalink: /about/
-title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+### Short-Bio
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am a Computer Science & Engineering major from Indian Institute of Technology Guwahati, working as a Software Development Engineer II at Amazon. I am also an open source enthusiast, and I contribute to GNOME Games.
+
+Over the years, I have gained experience in Software Development and Design, Machine Learning, Game Development, Android Development, etc. Currently, I am exploring further into these fields and trying to find my calling. 
+
+---
